@@ -9,6 +9,10 @@ Cameras · AI · passage logs
   <a href="https://github.com/ramincsy/ramioo-showcase"><img src="https://img.shields.io/badge/ramioo-showcase-hub-111827?style=for-the-badge" alt="hub" /></a>
 </p>
 
+<p>
+  <a href="https://www.ramioo.com/projects/vision-access"><img src="docs/card.jpg" alt="Vision access · ANPR" width="860" /></a>
+</p>
+
 <p><a href="https://www.ramioo.com/projects/vision-access">https://www.ramioo.com/projects/vision-access</a></p>
 
 </div>
